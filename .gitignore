@@ -1,0 +1,4 @@
+*/.ipynb_checkpoints
+
+.nba_venv
+notebook/nba_teams_file.hdf5

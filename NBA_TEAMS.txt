@@ -1,0 +1,63 @@
+Atlanta Hawks
+    ATL (2023-2010)
+Boston Celtics
+    BOS (2023-2010)
+Brooklyn Nets
+    BRK (2023-2013)
+    NJN (2012-2010)
+Charlotte Hornets
+    CHO (2023-2015)
+    CHA (2014-2010)
+Chicago Bulls
+    CHI (2023-2010)
+Cleveland Cavaliers
+    CLE (2023-2010)
+Dallas Mavericks
+    DAL (2023-2010)
+Denver Nuggets
+    DEN (2023-2010)
+Detroit Pistons
+    DET (2023-2010)
+Golden State Warriors
+    GSW (2023-2010)
+Houston Rockets
+    HOU (2023-2010)
+Indiana Pacers
+    IND (2023-2010)
+Los Angeles Clippers
+    LAC (2023-2010)
+Los Angeles Lakers
+    LAL (2023-2010)
+Memphis Grizzlies
+    MEM (2023-2010)
+Miami Heat
+    MIA (2023-2010)
+Milwaukee Bucks
+    MIL (2023-2010)
+Minnesota Timberwolves
+    MIN (2023-2010)
+New Orleans Pelicans
+    NOP (2023-2014)
+    NOH (2013-2010)
+New York Knicks
+    NYK (2023-2010)
+Oklahoma City Thunder
+    OKC (2023-2010)
+Orlando Magic
+    ORL (2023-2010)
+Philadelphia 76ers
+    PHI (2023-2010)
+Phoenix Suns
+    PHO (2023-2010)
+Portland Trail Blazers
+    POR (2023-2010)
+Sacramento Kings
+    SAC (2023-2010)
+San Antonio Spurs
+    SAS (2023-2010)
+Toronto Raptors
+    TOR (2023-2010)
+Utah Jazz
+    UTA (2023-2010)
+Washington Wizards
+    WAS (2023-2010)
